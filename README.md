@@ -7,8 +7,7 @@ A serverless AI platform for e-commerce supply chain management, using AWS Kines
 - Scalable cloud architecture with MLOps.
 - Interactive QuickSight dashboard.
 
-## Architecture
-![Architecture Diagram](docs/architecture-diagram.png)
+
 
 ## Tech Stack
 - **AWS Kinesis**: Data streaming
@@ -26,5 +25,4 @@ A serverless AI platform for e-commerce supply chain management, using AWS Kines
 3. Train models in SageMaker.
 4. Visualize in QuickSight.
 
-## Demo
-[Watch Video](link-to-loom-video)
+
